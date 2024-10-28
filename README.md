@@ -1,3 +1,3 @@
 # Vibrotehnika: no teorijas līdz HPC
 
-Šajā repozitorijā ir pieejami mācīu materiāli aprēķinu veikšanai, lietojot Python un JupyterLab.
+Šajā repozitorijā ir pieejami mācību materiāli aprēķinu veikšanai, lietojot Python un JupyterLab.
